@@ -13,8 +13,8 @@
 
 ## PERFIL PESSOAL
 - Pró-atividade, responsabilidade, paixão pela área;
-- Organização, foco na eficiência de processos e metas;
-- Extroversão, boa comunicação, trabalho em equipe;
+- Organização, foco em processos e metas;
+- Boa comunicação, trabalho em equipe;
 
 
 ## FORMAÇÃO
