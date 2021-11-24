@@ -1,3 +1,22 @@
+## Informações de Contato
+:e-mail: ebertonguitar19@gmail.com
+
+:telephone_receiver: (51) 99200-9013 - [WhatsApp](https://api.whatsapp.com/send?phone=5551992009013)
+
+:house: [Canoas / RS - Bairro Mathias Velho](https://bit.ly/2VmU7mI)
+
+:globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/eberton-luis-da-silva-0682631b5/)
+
+## OBJETIVO
+Área de Tecnologia da Informação, desenvolvimento e infraestrutura.
+
+## PERFIL PESSOAL
+- Pró-atividade, responsabilidade, paixão pela área;
+- Organização, foco na eficiência de processos e metas;
+- Extroversão, boa comunicação, trabalho em equipe;
+
+## FORMAÇÃO
+
 | Curso | Localização | Instituição | Situação |
 | ----- | ----------- | ----------- | -------- |
 | :mortar_board: Superior de Tecnologia em Redes de Computadores | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Universidade Unopar](hhttps://www.unopar.com.br/) | :hourglass: em andamento |
