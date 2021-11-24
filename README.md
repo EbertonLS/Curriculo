@@ -32,6 +32,7 @@
 | Suporte Técnico e Relacional |        |         :heavy_check_mark:      |  |
 | Manutenção Hardware / Software |  :heavy_check_mark:      |               |  |
 | Redes TCP/IP                   |        | :heavy_check_mark: |               |
+| Telecom                | :heavy_check_mark: |   |                    |
 | Editores de Códigos / Scripts  |     :heavy_check_mark:   |  |               |
 | Banco de Dados                 | :heavy_check_mark: |   |                    |
 
