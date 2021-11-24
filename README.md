@@ -26,17 +26,15 @@
 | :mortar_board: Técnico em Qualidade | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Senac Fecomércio Sesc](https://www.senacrs.com.br/) | :white_check_mark: concluído em 2016 |
 
 
-## INFORMÁTICA
+## Conhecimentos e Habilidades
 | Níveis de Conhecimento | Básico | Intermediário | Avançado |
 | ---------------------- | ------ | ------------- | -------- |
-| WPS Office / Microsoft Office  |        |               | :heavy_check_mark: |
-| Manutenção Hardware / Software |        |               | :heavy_check_mark: |
+| Suporte Técnico e Relacional |        |         :heavy_check_mark:      |  |
+| Manutenção Hardware / Software |  :heavy_check_mark:      |               |  |
 | Redes TCP/IP                   |        | :heavy_check_mark: |               |
-| Editores de Códigos / Scripts  |        | :heavy_check_mark: |               |
-| Edição Gráfica                 |        |               | :heavy_check_mark: |
+| Editores de Códigos / Scripts  |     :heavy_check_mark:   |  |               |
 | Banco de Dados                 | :heavy_check_mark: |   |                    |
-| Active Directory               |        |               | :heavy_check_mark: |
-| Desenvolvimento de Baixo Nível | :heavy_check_mark: |                        |
+
 
 
 
