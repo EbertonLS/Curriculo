@@ -10,13 +10,14 @@
 ## OBJETIVO
 Área de Tecnologia da Informação, desenvolvimento e infraestrutura.
 
+
 ## PERFIL PESSOAL
 - Pró-atividade, responsabilidade, paixão pela área;
 - Organização, foco na eficiência de processos e metas;
 - Extroversão, boa comunicação, trabalho em equipe;
 
-## FORMAÇÃO
 
+## FORMAÇÃO
 | Curso | Localização | Instituição | Situação |
 | ----- | ----------- | ----------- | -------- |
 | :mortar_board: Superior de Tecnologia em Redes de Computadores | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Universidade Unopar](hhttps://www.unopar.com.br/) | :hourglass: em andamento |
@@ -24,6 +25,8 @@
 | :mortar_board: Graduação em Processos Gerenciais | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Universidade Uniasselvi](https://portal.uniasselvi.com.br/) | :white_check_mark: concluído em 2020 |
 | :mortar_board: Técnico em Qualidade | :earth_americas: [Canoas/ RS](https://bit.ly/2VmU7mI) | :school: [Senac Fecomércio Sesc](https://www.senacrs.com.br/) | :white_check_mark: concluído em 2016 |
 
+
+## EXPERIÊNCIAS PROFISSIONAIS
 ### :office: Maio/ 2021 – Novembro/ 2021 – [One Telecom](https://www.onetelecom.net.br/)
 :briefcase: ``Função: Estagiário em Suporte Técnico de Internet e Telefonia, N1``
 #### :pushpin: Atividades:
@@ -31,3 +34,11 @@
 - Plataforma JIRA para gerenciamento de protocolos;
 - Acessos em Telnet, SSH, e FTP nas diversas plataformas da operadora;
 - Gerenciamento de central telefônica digital iPBX.
+
+### :office: Outubro/ 2017 – Julho/ 2019 – [Kem Distribuidora]
+:briefcase: ``Assistente Administrativo Financeiro``
+#### :pushpin: Atividades:
+- Controle de contas a receber;
+- Análise de Crédito;
+- Cobranças;
+- Suporte ao setor de vendas e demais segmentos do departamento financeiro.
