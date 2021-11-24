@@ -59,4 +59,8 @@
 ### :office: Maio/ 2009 – Outubro/ 2016 – [Hoepers SA]
 :briefcase: ``Operador de Redes (Auxiliar de TI)``
 #### :pushpin: Atividades:
+- Suporte técnico aos colaboradores da empresa;
+- Configuração de acessos;
+- Gerenciamento de credenciais;
+- Intalação e manutenção dos softwares e hardwares utilizados pela empresa.
 
