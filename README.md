@@ -42,3 +42,8 @@
 - Análise de Crédito;
 - Cobranças;
 - Suporte ao setor de vendas e demais segmentos do departamento financeiro.
+
+### :office: Maio/ 2009 – Outubro/ 2016 – [Hoepers SA]
+:briefcase: ``Operador de Redes (Auxiliar de TI)``
+#### :pushpin: Atividades:
+
