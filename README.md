@@ -8,13 +8,14 @@
 :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/eberton-luis-da-silva-0682631b5/)
 
 ## OBJETIVO
-Área de Tecnologia da Informação, desenvolvimento e infraestrutura.
+Área de Tecnologia da Informação, desenvolvimento Cyber Security einfraestrutura.
 
 
 ## PERFIL PESSOAL
-- Pró-atividade, responsabilidade, paixão pela área;
-- Organização, foco em processos e metas;
-- Boa comunicação, trabalho em equipe;
+- Sou apaixonado pela área;
+- Possuo boa comunicação e um ótimo relacionamento interpessoal;
+- Gosto de trabalhar de forma colaborativa, o que facilita bastante o trabalho em equipe;
+- Possuo empatia e paixão por ajudar o próximo.
 
 
 ## FORMAÇÃO
@@ -30,11 +31,12 @@
 | Níveis de Conhecimento | Básico | Intermediário | Avançado |
 | ---------------------- | ------ | ------------- | -------- |
 | Suporte Técnico e Relacional |        |         :heavy_check_mark:      |  |
-| Manutenção Hardware / Software |  :heavy_check_mark:      |               |  |
+| JAVA                 | :heavy_check_mark: |   |                    |
+| Lógica de programação e Algoritmo                 | :heavy_check_mark: |   |                    |
 | Redes TCP/IP                   |        | :heavy_check_mark: |               |
 | Telecom                | :heavy_check_mark: |   |                    |
-| Editores de Códigos / Scripts  |     :heavy_check_mark:   |  |               |
 | Banco de Dados                 | :heavy_check_mark: |   |                    |
+| GIT                 | :heavy_check_mark: |   |                    |
 
 
 
@@ -44,7 +46,7 @@
 :briefcase: ``Função: Estagiário em Suporte Técnico de Internet e Telefonia, N1``
 #### :pushpin: Atividades:
 - Suporte via e-mail, ligação e também chatbot;
-- Plataforma JIRA para gerenciamento de protocolos;
+- Plataforma JIRA e MK 3.0 para gerenciamento de protocolos;
 - Acessos em Telnet, SSH, e FTP nas diversas plataformas da operadora;
 - Gerenciamento de central telefônica digital iPBX.
 
