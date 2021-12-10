@@ -7,6 +7,8 @@
 
 :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/eberton-luis-da-silva-0682631b5/)
 
+:globe_with_meridians: [GitHub](https://github.com/EbertonLS/Curriculo)
+
 ## OBJETIVO
 Área de Tecnologia da Informação, desenvolvimento Cyber Security einfraestrutura.
 
