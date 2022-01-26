@@ -10,7 +10,7 @@
 :globe_with_meridians: [GitHub](https://github.com/EbertonLS/Curriculo)
 
 ## OBJETIVO
-Área de Tecnologia da Informação, desenvolvimento Cyber Security einfraestrutura.
+Área de Tecnologia da Informação, desenvolvimento cibersegurança e infraestrutura.
 
 
 ## PERFIL PESSOAL
