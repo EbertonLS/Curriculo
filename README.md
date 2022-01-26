@@ -33,10 +33,11 @@
 | Níveis de Conhecimento | Básico | Intermediário | Avançado |
 | ---------------------- | ------ | ------------- | -------- |
 | Suporte Técnico e Relacional |        |         :heavy_check_mark:      |  |
-| JAVA                 | :heavy_check_mark: |   |                    |
-| Lógica de programação e Algoritmo                 | :heavy_check_mark: |   |                    |
 | Redes TCP/IP                   |        | :heavy_check_mark: |               |
 | Telecom                | :heavy_check_mark: |   |                    |
+| Lógica de programação e Algoritmo                 | :heavy_check_mark: |   |    
+| JAVA                 | :heavy_check_mark: |   |                    |
+| HTML e CSS                 | :heavy_check_mark: |   |                    |                |
 | Banco de Dados                 | :heavy_check_mark: |   |                    |
 | GIT                 | :heavy_check_mark: |   |                    |
 
